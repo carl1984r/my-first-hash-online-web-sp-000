@@ -1,7 +1,8 @@
 def my_hash
   hash_a = {}
 hash_a["Newks"] = "lunch time"
-hash_a
+hash_a["cva"] = "cerebrovascular accident"
+hash_a["MI"] = "myocardial infarction"
 
 
 end
