@@ -15,6 +15,7 @@ def shipping_manifest
   the_manifest["porcelain vases"] = "2"
   the_manifest["oil paintings"] = "3"
   # We have 5 whale bone corsets, 2 porcelain vases and 3 oil paintings
+  the_manifest
   end
 
 def retrieval
